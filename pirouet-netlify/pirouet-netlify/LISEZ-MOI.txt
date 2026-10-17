@@ -1,0 +1,28 @@
+PIROU·ET — mise en ligne sur Netlify
+=====================================
+
+1. Mettre en ligne
+   - Va sur https://app.netlify.com/drop (ou, si tu as déjà un site Pirou·ET,
+     ouvre-le puis l'onglet « Deploys »).
+   - Glisse-dépose le dossier « pirouet-netlify » entier (pas le zip).
+   - Netlify donne une adresse du type https://xxxx.netlify.app.
+     Tu peux la renommer dans « Site configuration > Change site name »,
+     par exemple pirouet-elodie.netlify.app.
+
+2. Installer sur le téléphone d'Elodie (Android, Chrome)
+   - Ouvre l'adresse dans Chrome.
+   - Menu ⋮ > « Installer l'application » (ou « Ajouter à l'écran d'accueil »).
+   - L'icône Ruban apparaît sur l'écran d'accueil ; l'appli s'ouvre en plein écran
+     et fonctionne même sans réseau après la première ouverture.
+
+3. Mettre à jour plus tard
+   - Re-glisse le nouveau dossier dans l'onglet « Deploys » du même site.
+   - Elodie reçoit la nouvelle version à la prochaine ouverture (avec réseau).
+   - Son journal, ses étages et ses badges sont conservés.
+
+4. Bon à savoir
+   - Le journal, les étages et les réglages sont enregistrés dans le téléphone
+     d'Elodie (pas sur internet). Si elle efface les données de Chrome ou
+     désinstalle l'appli, ils sont perdus.
+   - Pour une voix plus naturelle : Paramètres Android > « Synthèse vocale »
+     > moteur Google > télécharger la voix française en qualité supérieure.
